@@ -1,0 +1,13 @@
+#IDEA#
+.idea/
+*.iml/
+
+#web#
+web/
+
+#Eclipse#
+.settings/
+.metadata/
+.classpath/
+.project
+Servers/
